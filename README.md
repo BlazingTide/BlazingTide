@@ -3,4 +3,9 @@
 [twitter](https://www.twitter.com/BlazingTide)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BlazingTide)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BlazingTide&show_icons=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlazingTide)
+
+![](https://github-profile-trophy.vercel.app/?username=BlazingTide)
